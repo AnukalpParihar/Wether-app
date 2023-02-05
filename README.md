@@ -1,2 +1,2 @@
 
-![alt](https://github.com/AnukalpParihar/WetherApp/blob/master/Screenshot%20(18).png)
+![alt](https://github.com/AnukalpParihar/Wether-app/blob/main/Screenshot%20(18).png)
